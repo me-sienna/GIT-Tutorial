@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//202310894 고명은 hw2
+
 int main(void) 
 {
     double kilometers;
